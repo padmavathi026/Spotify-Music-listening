@@ -28,19 +28,19 @@ This project analyzes global Spotify chart data from 2014 to 2022 to uncover ins
 
 <h5>📈 Techniques Used </h5>
 
-- <b>Exploratory Data Analysis (EDA)
+- <b>Exploratory Data Analysis (EDA)  </b>
 
-- <b>Principal Component Analysis (PCA)
+- <b>Principal Component Analysis (PCA)  </b>
+ 
+- <b>Hierarchical Clustering  </b>
 
-- <b>Hierarchical Clustering
+- <b>ARIMA Time Series Forecasting  </b>
 
-- <b>ARIMA Time Series Forecasting
-
-- <b>Change Point Detection (CUSUM, e.divisive)
+- <b>Change Point Detection (CUSUM, e.divisive)  </b>
 
 - <b>Survival Analysis (Kaplan-Meier Estimation) </b>
 
-<h6>📌 Key Results</h6>
+<h6> Key Results </h6>
 
 - Top countries: US, Switzerland, and Poland lead in chart entries.
 
@@ -64,8 +64,9 @@ This project analyzes global Spotify chart data from 2014 to 2022 to uncover ins
 
 - changepoint, ecp
 
-- forecast, tseries 
-<h8>🚀 How to Run </h8>
+- forecast, tseries
+  
+<h8> 🚀 How to Run </h8>
 
 1. Install required R packages:
    
