@@ -4,10 +4,6 @@ output:
   pdf_document: default
   html_document: default
 ---
-**Padmavathi Moorthy (50598169)  
-Indumathi Tamil Selvi Varadharajan (50604209)  
-Gopika Sree Kumar (50550978)**
-
 
 ```{r setup, include=FALSE}
 packages <- c("tidyverse", "data.table", "lubridate")
